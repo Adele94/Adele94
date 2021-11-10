@@ -1,16 +1,18 @@
-### Hi there 👋
+# Всем привет, меня зовут Адель 👋 👩🏻‍💻! 
+<p align='left'>
+  - 🤓 Имею опыт работы в backend.
+  - 🌱 Изучаю веб-разработку в Яндекс.Практикуме
+  - 🦉 Хочу работать с опытными коллегами
+  - 🎯 Большое желание работать с настоящими интересными проектами
+</p>
+<p align='left'> Вы можете посмотреть мое резюме <a href='https://drive.google.com/file/d/1G-l96vU5YZ4YooJEEBrCcFDcYFsu59kA/view?usp=sharing' target=_blank><u>здесь</u>.</a></p>
 
-<!--
-**Adele94/Adele94** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
-
-Here are some ideas to get you started:
-
-- 🔭 I’m currently working on ...
-- 🌱 I’m currently learning ...
-- 👯 I’m looking to collaborate on ...
-- 🤔 I’m looking for help with ...
-- 💬 Ask me about ...
-- 📫 How to reach me: ...
-- 😄 Pronouns: ...
-- ⚡ Fun fact: ...
--->
+## Моя статистика
+<div>
+<a href="https://github-readme-stats.vercel.app/api?username=Adele94&hide=contribs&show_icons=true">
+  <img  align="left" height="130" style="margin-right: 10px" src="https://github-readme-stats.vercel.app/api?username=Adele94&hide=contribs&show_icons=true" />
+</a>
+<a href="https://github-readme-stats.vercel.app/api/top-langs/?username=Adele94&layout=compact">
+  <img align="left" height="130" src="https://github-readme-stats.vercel.app/api/top-langs/?username=Adele94&layout=compact" />
+</a>
+</div>
