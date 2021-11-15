@@ -13,6 +13,22 @@
 <p align='left'>Ru: Мое резюме <a href='https://drive.google.com/file/d/1G-l96vU5YZ4YooJEEBrCcFDcYFsu59kA/view?usp=sharing' target=_blank><u>здесь</u>.</a></p>
 <p align='left'>En: You can view my resume <a href='https://drive.google.com/file/d/1c1_YVpZD8IpA8OJeGA44ZdwYSAyJYxdO/view?usp=sharing' target=_blank><u>here</u>.</a></p>
 
+### Мой стек:
+
+<p>
+<img src="https://raw.githubusercontent.com/github/explore/80688e429a7d4ef2fca1e82350fe8e3517d3494d/topics/visual-studio-code/visual-studio-code.png" alt="VS Code" height="26">
+<img src="https://raw.githubusercontent.com/github/explore/80688e429a7d4ef2fca1e82350fe8e3517d3494d/topics/html/html.png" alt="HTML" height="26">
+<img src="https://raw.githubusercontent.com/github/explore/80688e429a7d4ef2fca1e82350fe8e3517d3494d/topics/css/css.png" alt="CSS" height="26" >
+<img src="https://raw.githubusercontent.com/github/explore/80688e429a7d4ef2fca1e82350fe8e3517d3494d/topics/javascript/javascript.png" alt="Javascript" height="26">
+<img src="https://raw.githubusercontent.com/github/explore/80688e429a7d4ef2fca1e82350fe8e3517d3494d/topics/react/react.png" alt="React" height="26">
+<img src="https://raw.githubusercontent.com/github/explore/80688e429a7d4ef2fca1e82350fe8e3517d3494d/topics/nodejs/nodejs.png" alt="NodeJS" height="26">
+<img src="https://raw.githubusercontent.com/github/explore/80688e429a7d4ef2fca1e82350fe8e3517d3494d/topics/express/express.png" alt="Express" height="26">
+<img src="https://raw.githubusercontent.com/github/explore/80688e429a7d4ef2fca1e82350fe8e3517d3494d/topics/mongodb/mongodb.png" alt="Express" height="26">
+<img src="https://raw.githubusercontent.com/github/explore/80688e429a7d4ef2fca1e82350fe8e3517d3494d/topics/git/git.png" alt="git" height="26">
+<img src="https://raw.githubusercontent.com/jmnote/z-icons/master/svg/csharp.svg" alt="csharp" height="26">
+<img src="https://github.com/Olivierah/Olivierah/blob/main/images/mssql.svg" alt="MSSQL" height="26"  />
+</p>
+
 ## Моя статистика
 <div>
 <a href="https://github-readme-stats.vercel.app/api?username=Adele94&hide=contribs&show_icons=true">
