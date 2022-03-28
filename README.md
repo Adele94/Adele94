@@ -7,12 +7,12 @@
 <p align='left'>
   
 - 🤓 Имею опыт работы в backend.
-- 🌱 Изучаю веб-разработку в Яндекс.Практикуме
+- 🌱 Прошла обучение веб-разработки в Яндекс.Практикуме
 - 🦉 Хочу работать с опытными коллегами
 - 🎯 Большое желание работать с настоящими интересными проектами
 </p>
-<p align='left'>Ru: Мое резюме <a href='https://drive.google.com/file/d/1G-l96vU5YZ4YooJEEBrCcFDcYFsu59kA/view?usp=sharing' target=_blank><u>здесь</u>.</a></p>
-<p align='left'>En: You can view my resume <a href='https://drive.google.com/file/d/1c1_YVpZD8IpA8OJeGA44ZdwYSAyJYxdO/view?usp=sharing' target=_blank><u>here</u>.</a></p>
+<p align='left'>Ru: Мое резюме <a href='https://drive.google.com/file/d/1KF71boE-3Mubf9NGxGSVmcT3ESDbQJgk/view?usp=sharing' target=_blank><u>здесь</u>.</a></p>
+<p align='left'>En: You can view my resume <a href='https://drive.google.com/file/d/1ICdT_6A8CcrXRB_OV3SAX9VKEswl5RXW/view?usp=sharing' target=_blank><u>here</u>.</a></p>
 
 ### Мой стек:
 
